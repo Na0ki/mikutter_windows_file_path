@@ -1,0 +1,9 @@
+---
+slug: :windows_local_file_path
+depends:
+  mikutter: 3.5.0
+  plugin: []
+version: 0.0.1
+author: ahiru
+name: windows_local_file_path
+description: filter uri plugin for windows path
