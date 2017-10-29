@@ -18,5 +18,4 @@ $ git clone https://github.com/Na0ki/mikutter_windows_local_file_path.git window
 Redmine の上記チケットで議論中なので、進捗についてはそちらを参照してください。
 
 ## ライセンス
-[MIT](/LICENSE
-)
+[MIT](/LICENSE)
