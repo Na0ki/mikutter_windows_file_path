@@ -16,3 +16,7 @@ $ git clone https://github.com/Na0ki/mikutter_windows_local_file_path.git
 ## 問題点
 * 2017年10月29日現在、パス文字列の問題で本プラグインがうまく動作していないのを把握しています。  
 Redmine の上記チケットで議論中なので、進捗についてはそちらを参照してください。
+
+## ライセンス
+[MIT](/LICENSE
+)
