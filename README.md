@@ -10,7 +10,7 @@ Windows のファイルパスを解決するプラグイン
 ```
 $ mkdir -p ~/.mikutter/plugin
 $ cd ~/.mikutter/plugin
-$ git clone https://github.com/Na0ki/mikutter_windows_local_file_path.git
+$ git clone https://github.com/Na0ki/mikutter_windows_local_file_path.git windows_local_file_path
 ```
 
 ## 問題点
