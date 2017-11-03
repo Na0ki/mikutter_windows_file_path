@@ -1,8 +1,9 @@
-# mikutter windows_local_file_path プラグイン
+# mikutter file_path プラグイン for Windows
 
 ## なにこれ
-Windows のファイルパスを解決するプラグイン  
-これの作成経緯は mikutter redmine の [このチケット](https://dev.mikutter.hachune.net/issues/954) を参照してください。
+Windowsのファイルパスを解決するプラグイン  
+これの作成経緯は mikutter redmine の [このチケット](https://dev.mikutter.hachune.net/issues/954) を参照してください。  
+UNIX系用は [こちら](https://github.com/Na0ki/mikutter_unix_file_path)
 
 ## 使い方
 このプラグインを追加するだけ
@@ -10,12 +11,11 @@ Windows のファイルパスを解決するプラグイン
 ```
 $ mkdir -p ~/.mikutter/plugin
 $ cd ~/.mikutter/plugin
-$ git clone https://github.com/Na0ki/mikutter_windows_local_file_path.git windows_local_file_path
+$ git clone https://github.com/Na0ki/mikutter_windows_file_path.git file_path
 ```
 
-## 問題点
-* 2017年10月29日現在、パス文字列の問題で本プラグインがうまく動作していないのを把握しています。  
-Redmine の上記チケットで議論中なので、進捗についてはそちらを参照してください。
+## 注意点
+[UNIX系用](https://github.com/Na0ki/mikutter_unix_file_path.git)とは同居できないようにしてあるので注意してください。
 
 ## ライセンス
 [MIT](/LICENSE)
